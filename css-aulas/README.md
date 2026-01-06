@@ -20,3 +20,20 @@
     }
 */
 ```
+
+## Anatomia de um documento CSS
+
+- Declaração
+- Seletor
+- {} - context
+- Propriedades
+- Propriedade valor
+
+```
+h1 {
+    color: blue;
+    font-size: 60px;
+    letter-spacing: 2;
+    text-transform: uppercase;
+}
+```
