@@ -10,3 +10,13 @@
 - Propriedade e valor
 - Estilos para o HTML
 - Arquivos `.css`
+
+## Comentários
+
+```
+/*
+    body {
+        backgroundcolor: blueviolet;
+    }
+*/
+```
