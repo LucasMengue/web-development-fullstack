@@ -46,3 +46,18 @@ h1 {
 -- #id - 100
 -- .class - 10
 -- element - 1
+
+## Valores e unidades de medidas
+
+Cada propriedade possui valores
+`property: value`
+`<data-type>`
+
+```
+h1 {
+    color: blue; /* color */
+    font-size: 32px; /* length */
+    letter-spacing: 2; /* number */
+    text-transform: uppercase; /* keyword */
+}
+```
