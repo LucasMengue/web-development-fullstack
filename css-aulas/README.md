@@ -61,3 +61,11 @@ h1 {
     text-transform: uppercase; /* keyword */
 }
 ```
+
+## Seletores
+
+- id
+- class
+- type | element | tag
+- atributo
+- universal
