@@ -69,3 +69,21 @@ h1 {
 - type | element | tag
 - atributo
 - universal
+
+```
+<p id="title" class="title">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac erat lobortis, facilisis sem in, iaculis dui. Sed sed viverra eros. Pellentesque fermentum ligula a consectetur euismod. Mauris finibus dignissim auctor. Donec enim tortor, venenatis quis massa quis, commodo lacinia augue. Mauris consectetur leo nec metus placerat finibus vitae vel elit. Cras ut nulla tincidunt, iaculis urna eget, pulvinar massa.
+</p>
+
+p {
+    color: blue;
+}
+
+#title {
+    color: yellow;
+}
+
+.title {
+    color: green;
+}
+```
