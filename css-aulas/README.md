@@ -104,3 +104,13 @@ p {
 
 > elementos
 > `<div>, <main>, <header>, <section>, <p>, <h...>`
+
+## Display: inline
+
+1. Ocupa apenas o espaço do conteúdo do elemento
+2. Elementos poderão ficar `em linha`
+3. `width` e `height` não se aplicam
+4. Aplicamos apenas os valores horizontais de `padding`, `margin`, `border`
+
+> elementos
+> `<a>, <span>, <strong>, <em>`
