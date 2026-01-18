@@ -114,3 +114,14 @@ p {
 
 > elementos
 > `<a>, <span>, <strong>, <em>`
+
+## Border
+
+```
+border: 1px solid red;
+border-width: 4px 2px 6px 15px;
+border-style: dotted solid double dashed;
+border-color: red green blue black;
+border-bottom-style: solid;
+border-bottom: solid red 5px;
+```
