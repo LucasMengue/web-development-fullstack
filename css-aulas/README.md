@@ -125,3 +125,14 @@ border-color: red green blue black;
 border-bottom-style: solid;
 border-bottom: solid red 5px;
 ```
+
+## Width, Height
+
+```
+min-width: 200px;
+max-width: 300px;
+width: 500px;
+min-height: 200px;
+max-height: 300px;
+height: 1500px;
+```
