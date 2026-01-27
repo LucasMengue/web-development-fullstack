@@ -136,3 +136,14 @@ min-height: 200px;
 max-height: 300px;
 height: 1500px;
 ```
+
+## Margin
+
+```
+.margin {
+    margin: 30px;
+    margin-left: 60px;
+    margin: 30px 10px 80px 4rem;
+    margin: auto;
+}
+```
