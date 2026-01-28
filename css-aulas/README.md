@@ -155,3 +155,12 @@ height: 1500px;
     padding: 20px 40px 0 10px;
 }
 ```
+
+## Box-sizing
+
+```
+.padding {
+    box-sizing: border-box;
+    padding: 40px;
+}
+```
