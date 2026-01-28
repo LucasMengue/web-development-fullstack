@@ -147,3 +147,11 @@ height: 1500px;
     margin: auto;
 }
 ```
+
+## Padding
+
+```
+.padding {
+    padding: 20px 40px 0 10px;
+}
+```
