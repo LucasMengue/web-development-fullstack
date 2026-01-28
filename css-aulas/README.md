@@ -164,3 +164,17 @@ height: 1500px;
     padding: 40px;
 }
 ```
+
+## Fundamentos de textos
+
+### font-family
+
+```
+p {
+    /* genéricos */
+    font-family: monospace;
+
+    /* nome da família + genéricos */
+    font-family: Arial, Helvetica, sans-serif;
+}
+```
