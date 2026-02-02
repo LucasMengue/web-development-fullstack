@@ -178,3 +178,95 @@ p {
     font-family: Arial, Helvetica, sans-serif;
 }
 ```
+
+### font-size
+
+```
+p {
+    font-size: 40px;
+}
+```
+
+### font-style, font-weight
+
+```
+p {
+    font-style: normal;
+    font-style: italic;
+    font-style: oblique;
+
+    font-weight: normal;
+    font-weight: bold;
+    font-weight: lighter;
+    font-weight: bolder;
+    font-weight: 100;
+    font-weight: 900;
+}
+```
+
+### color, text-transform, text-decoration
+
+```
+p {
+    text-transform: none;
+    text-transform: uppercase;
+    text-transform: lowercase;
+}
+
+mark {
+    color: red;
+}
+
+a {
+    text-decoration: line-through red dashed;
+    text-decoration: none;
+}
+```
+
+### text-align, line-height
+
+```
+p {
+    text-align: center;
+    text-align: right;
+    text-align: justify;
+
+    line-height: 1.5
+}
+```
+
+### letter-spacing, word-spacing
+
+```
+p {
+    letter-spacing: 1;
+    word-spacing: 3;
+}
+```
+
+### shorthand font
+
+- font-style, font-variant, font-weight, font-stretch, font-size/line-height, font-family
+
+```
+p {
+    font: bold italic small-caps condensed 16px/1.6 sans-serif;
+}
+```
+
+### web fonts
+
+```
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+
+<style>
+    p {
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+    }
+</style>
+```
