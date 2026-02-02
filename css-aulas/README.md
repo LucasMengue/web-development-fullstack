@@ -270,3 +270,47 @@ p {
     }
 </style>
 ```
+
+## Cores e fundos
+
+### named colors e hexadecimal
+
+```
+p {
+    color: red;
+    color: #d11987;
+    color: #f093;
+    color: #d32ba034;
+}
+```
+
+### background-color, background-image, background-repeat
+
+```
+div {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    background-image: url("image url");
+    background-repeat: no-repeat;
+}
+```
+
+### background-position, background-size
+
+```
+body {
+    background-image: url("image url");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+```
+
+### background shorthand
+
+```
+body {
+    background: #eeeeee url("image url") no-repeat center/50px;
+}
+```
